@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="ERD" id="mqRnHoleAtuB4LZljWnc">
-    <mxGraphModel dx="1948" dy="1999" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="673" dy="1866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,12 +338,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1060" y="-420" as="sourcePoint" />
             <mxPoint x="1138" y="-460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6PcZLeugjUfpTTE9w5N7-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.455;exitY=0.021;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1409" y="-439" as="sourcePoint" />
-            <mxPoint x="1200" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
