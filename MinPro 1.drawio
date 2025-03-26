@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="ERD" id="mqRnHoleAtuB4LZljWnc">
-    <mxGraphModel dx="1502" dy="2061" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3584" dy="2931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,7 +261,7 @@
             <mxPoint x="477" y="-1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jK-fs9268fX802XM6aWN-2" value="memiliki" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="jK-fs9268fX802XM6aWN-2" value="milik" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1340" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jK-fs9268fX802XM6aWN-3" value="jadwal" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -279,7 +279,7 @@
             <mxPoint x="1255" y="-1118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jK-fs9268fX802XM6aWN-7" value="beri" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="jK-fs9268fX802XM6aWN-7" value="milik" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1557" y="-826" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jK-fs9268fX802XM6aWN-8" value="ulasan" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
