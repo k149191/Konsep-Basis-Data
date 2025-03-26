@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="ERD" id="mqRnHoleAtuB4LZljWnc">
-    <mxGraphModel dx="5177" dy="3597" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3290" dy="4595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,10 +310,10 @@
           <mxGeometry x="1545" y="-1173" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jK-fs9268fX802XM6aWN-19" value="kometar" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1919" y="-773" width="100" height="40" as="geometry" />
+          <mxGeometry x="1919" y="-709" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jK-fs9268fX802XM6aWN-20" value="rating" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1919" y="-824" width="100" height="40" as="geometry" />
+          <mxGeometry x="1919" y="-764" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jK-fs9268fX802XM6aWN-21" value="&lt;i&gt;id_reservasi&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1919" y="-874" width="100" height="40" as="geometry" />
@@ -322,7 +322,7 @@
           <mxGeometry x="1919" y="-923" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jK-fs9268fX802XM6aWN-25" value="tanggal_ulasan" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1919" y="-724" width="100" height="40" as="geometry" />
+          <mxGeometry x="1921" y="-657" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jK-fs9268fX802XM6aWN-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jK-fs9268fX802XM6aWN-8" target="jK-fs9268fX802XM6aWN-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -475,6 +475,21 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1009" y="-864" as="sourcePoint" />
             <mxPoint x="863" y="-810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_YT_Ib_IAxxmoJ92L7t-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.572;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1019" y="-854" as="sourcePoint" />
+            <mxPoint x="873" y="-800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_YT_Ib_IAxxmoJ92L7t-21" value="&lt;i&gt;id_makeup_artist&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1916" y="-820" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G_YT_Ib_IAxxmoJ92L7t-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jK-fs9268fX802XM6aWN-8" target="G_YT_Ib_IAxxmoJ92L7t-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1886" y="-799" as="sourcePoint" />
+            <mxPoint x="1929" y="-844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
